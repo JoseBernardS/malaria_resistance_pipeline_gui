@@ -1,0 +1,129 @@
+marker_id	drug	classification	gene_symbol	gene_id	components
+1	Amodiaquine	Candidate marker ( Epi. & Lab.)	pfcrt	PF3D7_0709000	C72S+K76T+A220S+N326D+I356L
+2	Amodiaquine	Candidate marker ( Epi. & Lab.)	pfmdr1	PF3D7_0523000	N86Y
+3	Artemisinins	Validated marker (Epi., Lab. & Clin.)	pfk13	PF3D7_1343700	Y493H
+4	Artemisinins	Validated marker (Epi., Lab. & Clin.)	pfk13	PF3D7_1343700	I543T
+5	Artemisinins	Validated marker (Epi., Lab. & Clin.)	pfk13	PF3D7_1343700	C580Y
+6	Artemisinins	Validated marker (Epi., Lab. & Clin.)	pfk13	PF3D7_1343700	R539T
+7	Artemisinins	Validated marker (Epi., Lab. & Clin.)	pfk13	PF3D7_1343700	P574L
+8	Artemisinins	Validated marker (Epi., Lab. & Clin.)	pfk13	PF3D7_1343700	N458Y
+9	Artemisinins	Validated marker (Epi., Lab. & Clin.)	pfk13	PF3D7_1343700	P553L
+10	Artemisinins	Validated marker (Epi., Lab. & Clin.)	pfk13	PF3D7_1343700	M476I
+11	Artemisinins	Validated marker (Epi., Lab. & Clin.)	pfk13	PF3D7_1343700	F446I
+12	Artemisinins	Validated marker (Epi., Lab. & Clin.)	pfk13	PF3D7_1343700	R561H
+13	Artemisinins	Candidate marker (Epi. & Clin.)	pfk13	PF3D7_1343700	G538V
+14	Artemisinins	Candidate marker (Epi. & Clin.)	pfk13	PF3D7_1343700	N537I
+15	Artemisinins	Candidate marker (Epi. & Clin.)	pfk13	PF3D7_1343700	P441L
+16	Artemisinins	Potential marker (Epi.)	pfk13	PF3D7_1343700	G449A
+17	Artemisinins	Potential marker (Epi.)	pfk13	PF3D7_1343700	Q613E
+18	Artemisinins	Candidate marker (Epi. & Clin.)	pfk13	PF3D7_1343700	V568G
+19	Artemisinins	Validated marker (Epi., Lab. & Clin.)	pfk13	PF3D7_1343700	R622I
+20	Artemisinins	Potential marker (Clin.)	pfk13	PF3D7_1343700	P527H
+21	Artemisinins	Potential marker (Epi.)	pfk13	PF3D7_1343700	K438N
+22	Artemisinins	Candidate marker (Epi. & Clin.)	pfk13	PF3D7_1343700	E252Q
+23	Artemisinins	Potential marker (Epi.)	pfk13	PF3D7_1343700	Y511H
+24	Artemisinins	Potential marker (Lab.)	pfk13	PF3D7_1343700	D584V
+25	Artemisinins	Candidate marker (Epi. & Clin.)	pfk13	PF3D7_1343700	C469F
+26	Artemisinins	Potential marker (Epi.)	pfk13	PF3D7_1343700	N585K
+27	Artemisinins	Potential marker (Lab.)	pfcoronin	PF3D7_1251200	R100K
+28	Artemisinins	Potential marker (Lab.)	pfcoronin	PF3D7_1251200	E107V
+29	Artemisinins	Potential marker (Lab.)	pfcoronin	PF3D7_1251200	G50E
+30	Artemisinins	Potential marker (Clin.)	pfk13	PF3D7_1343700	G625R
+31	Artemisinins	Validated marker (Epi., Lab. & Clin.)	pfk13	PF3D7_1343700	A675V
+32	Artemisinins	Potential marker (Lab.)	pfk13	PF3D7_1343700	R515K
+33	Artemisinins	Validated marker (Epi., Lab. & Clin.)	pfk13	PF3D7_1343700	G533S
+34	Artemisinins	Potential marker (Lab.)	pfk13	PF3D7_1343700	F495L
+35	Artemisinins	Potential marker (Epi.)	pfk13	PF3D7_1343700	T508N
+36	Artemisinins	Potential marker (Epi.)	pfk13	PF3D7_1343700	S577L
+37	Artemisinins	Potential marker (Lab.)	pfk13	PF3D7_1343700	M579I
+38	Artemisinins	Validated marker (Epi., Lab. & Clin.)	pfk13	PF3D7_1343700	C469Y
+39	Artemisinins	Potential marker (Lab.)	pfk13	PF3D7_1343700	P413A
+40	Artemisinins	Potential marker (Epi.)	pfk13	PF3D7_1343700	A582V
+41	Atovaquone	Potential marker (Lab.)	pfcytb	PF3D7_MIT02300	M133I+P275T
+42	Atovaquone	Potential marker (Lab.)	pfcytb	PF3D7_MIT02300	M133I+K272R
+43	Atovaquone	Potential marker (Lab.)	pfcytb	PF3D7_MIT02300	M133I+G280D
+44	Atovaquone	Potential marker (Lab.)	pfcytb	PF3D7_MIT02300	L283I+V284K
+45	Atovaquone	Potential marker (Lab.)	pfcytb	PF3D7_MIT02300	M133I
+46	Atovaquone	Validated marker (Lab. & Clin.)	pfcytb	PF3D7_MIT02300	Y268S
+47	Atovaquone	Potential marker (Lab.)	pfcytb	PF3D7_MIT02300	M133I+L271F
+48	Atovaquone	Potential marker (Clin.)	pfcytb	PF3D7_MIT02300	Y268C
+49	Chloroquine	Validated marker (Epi., Lab. & Clin.)	pfcrt	PF3D7_0709000	K76T
+50	Chloroquine	Validated marker (Epi., Lab. & Clin.)	pfmdr1	PF3D7_0523000	N86Y
+51	Chloroquine	Candidate marker ( Epi. & Lab.)	pfcrt	PF3D7_0709000	C72S+(V73+M74+N75)+K76T
+52	Chloroquine	Candidate marker ( Epi. & Lab.)	pfcrt	PF3D7_0709000	C72S+K76T+A220S+N326D+I356L
+53	Chloroquine	Validated marker (Epi., Lab. & Clin.)	pfcrt	PF3D7_0709000	(C72+V73)+M74I+N75E+K76T
+54	Chloroquine	Potential marker (Lab.)	pfcrt	PF3D7_0709000	K76T+A144T+L160Y+N326D
+55	Chloroquine	Candidate marker ( Epi. & Lab.)	pfcrt	PF3D7_0709000	M74I+N75E+K76T+A220S+Q271E+N326S+I356T+R371I
+56	Chloroquine	Candidate marker ( Epi. & Lab.)	pfcrt	PF3D7_0709000	M74I+N75E+K76T+A220S+Q271E+R371I
+57	Chloroquine	Candidate marker ( Epi. & Lab.)	pfcrt	PF3D7_0709000	M74I+N75E+K76T+A220S+Q271E+I356T+R371I
+58	Chloroquine	Candidate marker ( Epi. & Lab.)	pfcrt	PF3D7_0709000	M74I+N75E+K76T+A220S+Q271E+N326S+R371I
+59	Cycloguanil	Potential marker (Lab.)	pfdhfr	PF3D7_0417200	C59R+S108N
+60	Cycloguanil	Potential marker (Lab.)	pfdhfr	PF3D7_0417200	A16V+S108T
+61	Cycloguanil	Potential marker (Lab.)	pfdhfr	PF3D7_0417200	S108N/T
+62	Cycloguanil	Potential marker (Lab.)	pfdhfr	PF3D7_0417200	I164L
+63	Cycloguanil	Potential marker (Lab.)	pfdhfr	PF3D7_0417200	N51I+C59R
+64	Cycloguanil	Potential marker (Lab.)	pfdhfr	PF3D7_0417200	N51I+S108N
+65	Cycloguanil	Potential marker (Lab.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N+I164L
+66	Cycloguanil	Potential marker (Lab.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N
+67	Cycloguanil	Potential marker (Lab.)	pfdhfr	PF3D7_0417200	C50R+S108N
+68	Piperaquine	Validated marker (Epi., Lab. & Clin.)	pfcrt	PF3D7_0709000	C350R
+69	Piperaquine	Potential marker (Lab.)	pfcrt	PF3D7_0709000	C101F
+70	Piperaquine	Validated marker (Epi., Lab. & Clin.)	pfcrt	PF3D7_0709000	F145I
+71	Piperaquine	Validated marker (Epi., Lab. & Clin.)	pfcrt	PF3D7_0709000	H97Y
+72	Piperaquine	Candidate marker (Epi. & Lab.)	pfcrt	PF3D7_0709000	G353V
+73	Piperaquine	Candidate marker (Epi. & Lab.)	pfcrt	PF3D7_0709000	M343L
+74	Piperaquine	Validated marker (Epi., Lab. & Clin.)	pfcrt	PF3D7_0709000	T93S
+75	Piperaquine	Validated marker (Epi., Lab. & Clin.)	pfcrt	PF3D7_0709000	I218F
+76	Piperaquine	Potential marker (Lab.)	pfcrt	PF3D7_0709000	G367C
+77	Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhfr	PF3D7_0417200	C59R+S108N
+78	Pyrimethamine	Potential marker (Lab.)	pfdhfr	PF3D7_0417200	C59R+S108N+I164L
+79	Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhfr	PF3D7_0417200	N51I+S108N
+80	Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N
+81	Pyrimethamine	Potential marker (Lab.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N+I164L
+82	Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhfr	PF3D7_0417200	S108N
+83	Pyrimethamine	Potential marker (Lab.)	pfdhfr	PF3D7_0417200	I164L
+84	Pyrimethamine	Potential marker (Lab.)	pfdhfr	PF3D7_0417200	N51I
+85	Pyrimethamine	Potential marker (Lab.)	pfdhfr	PF3D7_0417200	C59R
+86	Quinine	Potential marker (Lab.)	pfmdr1	PF3D7_0523000	S1034C+N1042D+D1246Y
+87	Quinine	Potential marker (Lab.)	pfcrt	PF3D7_0709000	Q352K/R
+88	Sulfadoxine	Potential marker (Lab.)	pfdhps	PF3D7_0810800	S436A+A437G+K540E+A613T
+89	Sulfadoxine	Potential marker (Lab.)	pfdhps	PF3D7_0810800	S436A+A437G+K540E
+90	Sulfadoxine	Potential marker (Lab.)	pfdhps	PF3D7_0810800	S436F+A613S
+91	Sulfadoxine	Potential marker (Lab.)	pfdhps	PF3D7_0810800	S436F+A437G+A613S
+92	Sulfadoxine	Potential marker (Lab.)	pfdhps	PF3D7_0810800	A437G
+93	Sulfadoxine	Potential marker (Lab.)	pfdhps	PF3D7_0810800	S436F+A437G+A613S
+94	Sulfadoxine	Potential marker (Lab.)	pfdhps	PF3D7_0810800	A437G+A581G
+95	Sulfadoxine	Potential marker (Epi.)	pfdhps	PF3D7_0810800	A437G+K540E
+96	Sulfadoxine	Potential marker (Lab.)	pfdhps	PF3D7_0810800	S436A+A437G
+97	Sulfadoxine-Pyrimethamine	Validated marker (Epi., Lab. & Clin.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N
+97	Sulfadoxine-Pyrimethamine	Validated marker (Epi., Lab. & Clin.)	pfdhps	PF3D7_0810800	A437G+K540E
+98	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhfr	PF3D7_0417200	C59R+S108N
+98	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhps	PF3D7_0810800	S436A
+99	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhfr	PF3D7_0417200	C59R+S108N
+99	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhps	PF3D7_0810800	A437G
+100	Sulfadoxine-Pyrimethamine	Validated marker (Epi., Lab. & Clin.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N
+100	Sulfadoxine-Pyrimethamine	Validated marker (Epi., Lab. & Clin.)	pfdhps	PF3D7_0810800	S436A+A437G
+101	Sulfadoxine-Pyrimethamine	Validated marker (Epi., Lab. & Clin.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N
+101	Sulfadoxine-Pyrimethamine	Validated marker (Epi., Lab. & Clin.)	pfdhps	PF3D7_0810800	A437G
+102	Sulfadoxine-Pyrimethamine	Validated marker (Epi., Lab. & Clin.)	pfdhfr	PF3D7_0417200	C59R+S108N
+102	Sulfadoxine-Pyrimethamine	Validated marker (Epi., Lab. & Clin.)	pfdhps	PF3D7_0810800	K540E
+103	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N
+103	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhps	PF3D7_0810800	A437G+A581G+613T
+104	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N
+104	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhps	PF3D7_0810800	A437G+K540E+A581G
+105	Sulfadoxine-Pyrimethamine	Validated marker (Epi., Lab. & Clin.)	pfdhfr	PF3D7_0417200	N51I+S108N
+105	Sulfadoxine-Pyrimethamine	Validated marker (Epi., Lab. & Clin.)	pfdhps	PF3D7_0810800	A437G+K540E
+106	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N
+106	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhps	PF3D7_0810800	S436A+A437G+K540E
+107	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N
+107	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhps	PF3D7_0810800	A437G+K540E+A581G+S436A
+108	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N
+108	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhps	PF3D7_0810800	I431V+S436A+A437G+A581G+A613S
+109	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N
+109	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhps	PF3D7_0810800	S436A+A437G+A581G
+110	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N
+110	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhps	PF3D7_0810800	S436A+A437G+A581G+A613S
+111	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N
+111	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhps	PF3D7_0810800	S436A+A437G+A613S
+112	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhfr	PF3D7_0417200	N51I+C59R+S108N
+112	Sulfadoxine-Pyrimethamine	Candidate marker (Epi. & Lab.)	pfdhps	PF3D7_0810800	A437G+A581G

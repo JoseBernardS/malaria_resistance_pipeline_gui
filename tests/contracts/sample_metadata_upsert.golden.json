@@ -1,0 +1,72 @@
+{
+  "_comment": "GOLDEN CONTRACT FIXTURE - sample-metadata upsert. Produced by the desktop client's REAL serializers (gui.metadata_sync.build_metadata_payload + gui.cloud_client.CloudClient.put_sample_metadata). The backend sample-metadata upsert test MUST consume request_body verbatim instead of hand-rolling the samples list. alias -> sample_alias and internal_id -> sample_internal_id on the wire (namespaced off provenance); updated_at is the per-row last-write-wins key. Any field-name or nesting drift on either side turns a green suite red. Regenerate with scripts/gen_contract_fixtures.py; do not hand-edit.",
+  "endpoint": {
+    "method": "PUT",
+    "path": "/pipeline/runs/22222222-2222-2222-2222-222222222222/sample-metadata"
+  },
+  "request_body": {
+    "samples": [
+      {
+        "age_years": 7,
+        "barcode": "barcode01",
+        "case_classification": "Uncomplicated",
+        "collection_date": "2024-05-10",
+        "district": "Zomba",
+        "latitude": -15.3833,
+        "longitude": 35.3188,
+        "notes": "Febrile patient, <b>day 3</b> follow-up.",
+        "region": "Southern",
+        "sample_alias": "MW-ZA-001",
+        "sample_internal_id": "ZA-2024-001",
+        "updated_at": "2024-05-15T00:00:00Z"
+      },
+      {
+        "age_years": null,
+        "barcode": "barcode02",
+        "case_classification": null,
+        "collection_date": null,
+        "district": null,
+        "latitude": null,
+        "longitude": null,
+        "notes": null,
+        "region": null,
+        "sample_alias": null,
+        "sample_internal_id": null,
+        "updated_at": "2024-05-15T01:00:00Z"
+      }
+    ]
+  },
+  "source_rows": {
+    "run_id": "22222222-2222-2222-2222-222222222222",
+    "sample_meta": [
+      {
+        "age_years": 7,
+        "alias": "MW-ZA-001",
+        "case_class": "Uncomplicated",
+        "collection_date": "2024-05-10",
+        "district": "Zomba",
+        "internal_id": "ZA-2024-001",
+        "latitude": -15.3833,
+        "longitude": 35.3188,
+        "notes": "Febrile patient, <b>day 3</b> follow-up.",
+        "region": "Southern",
+        "sample": "barcode01",
+        "updated_at": 1715731200.0
+      },
+      {
+        "age_years": null,
+        "alias": null,
+        "case_class": null,
+        "collection_date": null,
+        "district": null,
+        "internal_id": null,
+        "latitude": null,
+        "longitude": null,
+        "notes": null,
+        "region": null,
+        "sample": "barcode02",
+        "updated_at": 1715734800.0
+      }
+    ]
+  }
+}

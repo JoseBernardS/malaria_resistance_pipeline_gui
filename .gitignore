@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+
+# User data (do not commit sequencing data)
+data/fastq_pass/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Analysis results (regenerable)
+results/
+
+# Packaged macOS app (regenerable via package/build_macos_app.sh)
+build/
+dist/
+_extracted/
+*.tar.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.ipynb_checkpoints/
+
+# Conda environments
+envs/nanopore_all/
+*.egg-info/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*~
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docker volumes (if any)
+docker-compose.override.yml

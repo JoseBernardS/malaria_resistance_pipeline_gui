@@ -1,0 +1,62 @@
+{
+  "_source": "Domain boundaries from UniProt feature tables (CRT Q8IBZ9, DHFR-TS Q8I1R6, MDR1 Q7K6A5, DHPS Q8IAU3, coronin Q8I4S2, cytb Q7HP03) plus established Pfam/literature boundaries for the K13 BTB+Kelch propeller (Ariey 2014), the DHFR-TS thymidylate-synthase half and the DHPS HPPK half. Positions are amino-acid coordinates (1-based, inclusive).",
+  "genes": {
+    "PF3D7_0709000": {
+      "name": "PfCRT",
+      "length": 424,
+      "domains": [
+        {"name": "Drug/metabolite transporter (10 TM)", "start": 52, "end": 404}
+      ]
+    },
+    "PF3D7_0417200": {
+      "name": "PfDHFR-TS",
+      "length": 608,
+      "domains": [
+        {"name": "DHFR", "start": 10, "end": 228},
+        {"name": "Thymidylate synthase", "start": 282, "end": 607}
+      ]
+    },
+    "PF3D7_0523000": {
+      "name": "PfMDR1",
+      "length": 1419,
+      "domains": [
+        {"name": "ABC transmembrane 1", "start": 58, "end": 345},
+        {"name": "ABC nucleotide-binding 1", "start": 378, "end": 662},
+        {"name": "ABC transmembrane 2", "start": 791, "end": 1083},
+        {"name": "ABC nucleotide-binding 2", "start": 1126, "end": 1416}
+      ]
+    },
+    "PF3D7_0810800": {
+      "name": "PfDHPS",
+      "length": 706,
+      "domains": [
+        {"name": "HPPK", "start": 85, "end": 380},
+        {"name": "Dihydropteroate synthase", "start": 389, "end": 698}
+      ]
+    },
+    "PF3D7_1343700": {
+      "name": "PfK13",
+      "length": 726,
+      "domains": [
+        {"name": "BTB/POZ", "start": 350, "end": 437},
+        {"name": "Kelch propeller", "start": 443, "end": 726}
+      ]
+    },
+    "PF3D7_1251200": {
+      "name": "PfCoronin",
+      "length": 602,
+      "domains": [
+        {"name": "DUF1899", "start": 1, "end": 62},
+        {"name": "WD40 \u03b2-propeller", "start": 70, "end": 450}
+      ]
+    },
+    "PF3D7_MIT02300": {
+      "name": "PfCytb",
+      "length": 376,
+      "domains": [
+        {"name": "Cytochrome b N-terminal", "start": 1, "end": 200},
+        {"name": "Cytochrome b C-terminal", "start": 200, "end": 374}
+      ]
+    }
+  }
+}

@@ -1,0 +1,122 @@
+,,,Evidence,,,,,,,,,Drug-specific fields,,,,
+,,,,,,,,,,,,Amodiquine,Chloroquine,Piperaquine,Sulfadoxine-pyrimethamine,
+Drug,Gene(s),Alteration(s),A1,A2,A3,B1,B2,B3,C1,Classification,References (PMIDs),PfCRT-haplotype reference strain,PfCRT-haplotype  (C72-V73-M74-N75-K76) or reference strain,PfCRT-background haplotype or specific Pfcrt mutations with evidence of effect,"PfDHFR haplotype 
+(N51-C59-S108-I164)","PfDHPS haplotype
+(I431-S436-A437-K540-A581-A613)"
+Amodiaquine,Pfcrt,C72S+K76T+A220S+N326D+I356L,1,,1,,,,1,Candidate marker ( Epi. & Lab.),"19884511, 21999470, 25898991, 26908582",7G8,,,,
+Amodiaquine,Pfmdr1,N86Y,,1,,,,,1,Candidate marker ( Epi. & Lab.),"21920347, 25348116, 27026134, 35135546, 35279140, 35919251, 36006247",-,,,,
+Artemisinins,Pfk13,Y493H,1,,,1,,,1,"Validated marker (Epi., Lab. & Clin.)","24352242, 25075834, 25180241, 25224002, 25288380, 25502314, 26548510, 27332904, 28137815, 28161569, 30587196, 34270459",,,,,
+Artemisinins,Pfk13,I543T,1,,,1,,,1,"Validated marker (Epi., Lab. & Clin.)","24352242, 25075834, 25180241, 25224002, 25502314, 27301553, 27332904, 28137815",,,,,
+Artemisinins,Pfk13,C580Y,1,1,1,1,,,1,"Validated marker (Epi., Lab. & Clin.)","24352242, 25075834, 25180241, 25502314, 25537878, 25704894, 25836766, 25877962, 25927592, 26014949, 26548510, 26616851, 26911145, 27013512, 27301553, 27313266, 27332904, 28137815, 28161569, 28249583, 28400526, 28806957, 28903755, 29178921, 29378723, 30455312, 30587196, 30602520, 31660398, 31833468, 32098812, 32459308, 32524960, 34183715, 34270459, 34279219, 35365711, 37754284, 38700363, 39028193",,,,,
+Artemisinins,Pfk13,R539T,1,1,,1,,,1,"Validated marker (Epi., Lab. & Clin.)","24352242, 25075834, 25180241, 25502314, 25877962, 26548510, 26616851, 27301553, 27332904, 28137815, 28161569, 28400526, 30535043, 30587196, 31009824, 34183715, 34270459, 34279219, 35365711, 35388682, 38700363",,,,,
+Artemisinins,Pfk13,P574L,1,,,1,,,1,"Validated marker (Epi., Lab. & Clin.)","24352242, 25075834, 25180241, 25691632, 25704894, 25836766, 25910630, 25927592, 26548510, 26911145, 27001814, 27036739, 27313266, 27332904, 28137815, 28249583, 29378723, 30587196, 30651111, 31505774, 34270459, 34279219, 37816434",,,,,
+Artemisinins,Pfk13,N458Y,1,,,1,,,1,"Validated marker (Epi., Lab. & Clin.)","24352242, 25075834, 25537878, 25704894, 25836766, 25910630, 25927592, 26548510, 27301553, 27313266, 27332904, 29378723, 32098812, 37816434",,,,,
+Artemisinins,Pfk13,P553L,1,,,1,,,1,"Validated marker (Epi., Lab. & Clin.)","25075834, 25180241, 25910630, 27301553, 27313266, 27332904, 28137815, 34270459, 34279219",,,,,
+Artemisinins,Pfk13,M476I,1,,,1,,,1,"Validated marker (Epi., Lab. & Clin.)","25075834, 25502314, 25537878, 25704894, 27313266, 28249583, 29178921, 29378723, 30651111",,,,,
+Artemisinins,Pfk13,F446I,1,1,,1,,,1,"Validated marker (Epi., Lab. & Clin.)","25075834, 25691632, 25704894, 25910630, 25927592, 26911145, 27001814, 27036739, 27313266, 27332904, 27912758, 28161569, 28388902, 29178921, 29378723, 30651111, 31009824, 31505774, 31833468, 32524960, 34279219, 38700363",,,,,
+Artemisinins,Pfk13,R561H,1,,,1,,,1,"Validated marker (Epi., Lab. & Clin.)","25075834, 25704894, 26911145, 27313266, 27332904, 28806957, 29178921, 29378723, 32524960, 32747827, 33350925, 33864801, 34216470, 34279219, 37096145, 38016502, 38700363, 40112841",,,,,
+Artemisinins,Pfk13,G538V,,,,1,,,1,Candidate marker (Epi. & Clin.),"25075834, 25704894, 27036739, 27313266, 30651111, 36437462, 39929914",,,,,
+Artemisinins,Pfk13,N537I,,,,1,,,1,Candidate marker (Epi. & Clin.),"25075834, 25704894, 28806957, 30651111, 34270459",,,,,
+Artemisinins,Pfk13,P441L,,,,1,,,1,Candidate marker (Epi. & Clin.),"25075834, 25927592, 26911145, 29378723, 29996844, 30651111, 37611122, 40112841, 40241390",,,,,
+Artemisinins,Pfk13,G449A,,,,,,,1,Potential marker (Epi.),"25075834, 27313266, 29703425, 29996844, 30651111, 34978886",,,,,
+Artemisinins,Pfk13,Q613E,,,,,,,1,Potential marker (Epi.),"25075834, 30898164, 31358591, 32171078, 34594885, 39500918",,,,,
+Artemisinins,Pfk13,V568G,,,,1,,,1,Candidate marker (Epi. & Clin.),"25180241, 29582728, 30651111, 30967148, 35232492",,,,,
+Artemisinins,Pfk13,R622I,1,1,,1,,,1,"Validated marker (Epi., Lab. & Clin.)","26483118, 31296223, 32171330, 37640962, 37754284, 38287365, 38461239, 40463829",,,,,
+Artemisinins,Pfk13,P527H,,,,1,,,,Potential marker (Clin.),"26548510, 27313266, 30651111",,,,,
+Artemisinins,Pfk13,K438N,,,,,,,1,Potential marker (Epi.),27313266,,,,,
+Artemisinins,Pfk13,E252Q,,,,1,,,1,Candidate marker (Epi. & Clin.),"27313266, 28025270, 28161569, 30651111, 34279219, 38700363",,,,,
+Artemisinins,Pfk13,Y511H,,,,,,,1,Potential marker (Epi.),"27313266, 28806957, 32171078, 32437557",,,,,
+Artemisinins,Pfk13,D584V,,1,,,,,,Potential marker (Lab.),28494763,,,,,
+Artemisinins,Pfk13,C469F,,,,1,,,1,Candidate marker (Epi. & Clin.),"28806957, 32437557, 34216470, 37611122, 40112841",,,,,
+Artemisinins,Pfk13,N585K,,,,,,,1,Potential marker (Epi.),29582728,,,,,
+Artemisinins,Pfcoronin,R100K,1,1,,,,,,Potential marker (Lab.),"30420498, 32483161, 33045351, 33370279, 38716192",,,,,
+Artemisinins,Pfcoronin,E107V,1,1,,,,,,Potential marker (Lab.),"30420498, 32483161, 33045351, 33370279, 38716192",,,,,
+Artemisinins,Pfcoronin,G50E,1,1,,,,,,Potential marker (Lab.),"30420498, 32483161, 33045351, 33370279, 38716192",,,,,
+Artemisinins,Pfk13,G625R,,,,1,,,,Potential marker (Clin.),30535043,,,,,
+Artemisinins,Pfk13,A675V,1,1,,1,,,1,"Validated marker (Epi., Lab. & Clin.)","30651111, 34551228, 35388682, 37611122, 38837973, 40112841",,,,,
+Artemisinins,Pfk13,R515K,1,,,,,,,Potential marker (Lab.),"30651111, 39816817",,,,,
+Artemisinins,Pfk13,G533S,1,1,,1,,,1,"Validated marker (Epi., Lab. & Clin.)","31009824, 34279219, 36437462, 37816434, 40422178",,,,,
+Artemisinins,Pfk13,F495L,1,,,,,,,Potential marker (Lab.),32098812,,,,,
+Artemisinins,Pfk13,T508N,,,,,,,1,Potential marker (Epi.),33827592,,,,,
+Artemisinins,Pfk13,S577L,,,,,,,1,Potential marker (Epi.),33827592,,,,,
+Artemisinins,Pfk13,M579I,1,,,,,,,Potential marker (Lab.),34279219,,,,,
+Artemisinins,Pfk13,C469Y,1,,,1,,,1,"Validated marker (Epi., Lab. & Clin.)","34551228, 35388682, 36289202, 37611122, 38837973, 39028193, 39540797, 40112841",,,,,
+Artemisinins,Pfk13,P413A,1,1,,,,,,Potential marker (Lab.),"34606334, 39902927",,,,,
+Artemisinins,Pfk13,A582V,,,,,,,1,Potential marker (Epi.),38287365,,,,,
+Atovaquone,Pfcytb,M133I + P275T,,1,,,,,,Potential marker (Lab.),10898682,,,,,
+Atovaquone,Pfcytb,M133I + K272R,,1,,,,,,Potential marker (Lab.),10898682,,,,,
+Atovaquone,Pfcytb,M133I + G280D,,1,,,,,,Potential marker (Lab.),10898682,,,,,
+Atovaquone,Pfcytb,L283I + V284K ,,1,,,,,,Potential marker (Lab.),10898682,,,,,
+Atovaquone,Pfcytb,M133I ,1,1,,,,,,Potential marker (Lab.),"10898682, 12665429",,,,,
+Atovaquone,Pfcytb,Y268S,,1,,,,1,,Validated marker (Lab. & Clin.),"10898682, 16962361, 17438062, 17488741, 18411319, 22282497, 25918152, 37828012",,,,,
+Atovaquone,Pfcytb,M133I  + L271F,1,,,,,,,Potential marker (Lab.),12665429,,,,,
+Atovaquone,Pfcytb,Y268C,,,,,1,1,,Potential marker (Clin.),"16962361, 17488741, 19021900, 37154745",,,,,
+Chloroquine,Pfcrt,K76T,1,,,,1,1,1,"Validated marker (Epi., Lab. & Clin.)","11172152, 11181156, 15944738, 22706959, 24225406, 24359280, 25048375, 25516825, 26516402, 30559133",,-,,,
+Chloroquine,Pfmdr1,N86Y,1,,,,,1,1,"Validated marker (Epi., Lab. & Clin.)","11172152, 27189525",,-,,,
+Chloroquine,Pfcrt,C72S + (V73 + M74 + N75)+ K76T,1,1,,,,,1,Candidate marker ( Epi. & Lab.),"11675500, 12364805, 15031513, 20547800, 20565881, 22049031, 22453078, 26261345",,SVMNT,,,
+Chloroquine,Pfcrt,C72S + K76T + A220S + N326D + I356L,1,1,,,,,1,Candidate marker ( Epi. & Lab.),"12364805, 12364805, 25898991, 26261345, 26908582",,7G8,,,
+Chloroquine,Pfcrt,(C72 + V73) + M74I + N75E + K76T,,1,,,1,1,1,"Validated marker (Epi., Lab. & Clin.)","12499174, 15031513, 17488902, 20226032, 22453078, 24359280, 32103751, 32197607, 32817665, 33789667, 33933099, 34561749, 35033082, 39413897, 39596860, 39841324, 40200353",,CVIET,,,
+Chloroquine,Pfcrt,K76T+A144T+L160Y+N326D,1,,,,,,,Potential marker (Lab.),14576108,,Ph1,,,
+Chloroquine,Pfcrt,M74I + N75E + K76T + A220S + Q271E + N326S + I356T + R371I,1,1,1,,,,1,Candidate marker ( Epi. & Lab.),"25898991, 30206341, 31040246, 33197753, 39661643",,Dd2,,,
+Chloroquine,Pfcrt,M74I + N75E + K76T + A220S + Q271E + R371I,1,,,,,,1,Candidate marker ( Epi. & Lab.),"31040246, 39661643",,GB4,,,
+Chloroquine,Pfcrt,M74I + N75E + K76T + A220S + Q271E + I356T + R371I,1,,,,,,1,Candidate marker ( Epi. & Lab.),"31040246, 39661643",,Cam783,,,
+Chloroquine,Pfcrt,M74I + N75E + K76T+ A220S + Q271E + N326S + R371I,1,,,,,,1,Candidate marker ( Epi. & Lab.),"31040246, 39661643",,FCB,,,
+Cycloguanil,Pfdhfr ,C59R + S108N ,,1,,,,,,Potential marker (Lab.),"10813484, 12455495",,,,,
+Cycloguanil,Pfdhfr ,A16V + S108T ,1,1,,,,,,Potential marker (Lab.),"2183221, 2183222, 9380737, 9747971",,,,,
+Cycloguanil,Pfdhfr ,S108N/T,,1,,,,,,Potential marker (Lab.),"2183222, 9108546, 9430520, 9546421, 9747971, 10813484, 12455495, 12805261",,,,,
+Cycloguanil,Pfdhfr ,I164L,1,1,,,,,,Potential marker (Lab.),"2183222, 9747971",,,,,
+Cycloguanil,Pfdhfr ,N51I + C59R ,1,1,,,,,,Potential marker (Lab.),"2183222, 9747971, 34460932",,,,,
+Cycloguanil,Pfdhfr ,N51I + S108N ,1,,,,,,,Potential marker (Lab.),"9108546, 9747971, 34460932",,,,,
+Cycloguanil,Pfdhfr ,N51I + C59R + S108N + I164L,,1,,,,,,Potential marker (Lab.),"9380737, 34460932",,,,,
+Cycloguanil,Pfdhfr ,N51I + C59R + S108N,,1,,,,,,Potential marker (Lab.),"9380737, 9430520, 10813484, 12455495, 12805261, 34460932",,,,,
+Cycloguanil,Pfdhfr ,C50R + S108N,1,,,,,,,Potential marker (Lab.),9747971,,,,,
+Lumefantrine,Pfmdr1,Amplification,1,1,,,,,,Potential marker (Lab.),"16652314, 16845638, 35865822",,,,,
+Mefloquine,Pfmdr1,Amplification,1,1,,,1,1,1,"Validated marker (Epi., Lab. & Clin.)","10582887, 15288742, 15891133, 16845638, 17152017, 21896824, 27313266, 31518407, 34516247, 35865822, 36071520, 37626131, 38468205",,,,,
+Piperaquine,Pfcrt,C350R,1,1,,,1,,1,"Validated marker (Epi., Lab. & Clin.)","26261345, 31776516, 37858325, 38870266",,,7G8 ,,
+Piperaquine,Pfpm2/3,Amplification,1,1,,,1,1,1,"Validated marker (Epi., Lab. & Clin.)","27818095, 27818097, 28086775, 28931241, 29439977, 29720620, 30115924, 30967148, 31345710, 34183715, 37858324, 37939186, 38912775",,,"T93S, H97Y, F145I, I218F, M343L, C350R, G367C",,
+Piperaquine,Pfcrt,C101F,1,,,,,,,Potential marker (Lab.),28487425,,,Dd2,,
+Piperaquine,Pfcrt,F145I,1,,,,1,,1,"Validated marker (Epi., Lab. & Clin.)","28931241, 30115924, 31345709, 31345710, 31657776, 31776516, 34183715, 36082431, 36306287, 38059639, 39661643",,,"7G8, Dd2, GB4",,
+Piperaquine,Pfcrt,H97Y,1,,,,1,,1,"Validated marker (Epi., Lab. & Clin.)","30115924, 31345710",,,Dd2 ,,
+Piperaquine,Pfcrt,G353V,1,, , ,, ,1,Candidate marker (Epi. & Lab.),"30115924, 36306287, 36864926",,,Dd2 ,,
+Piperaquine,Pfcrt,M343L,1,,,,,,1,Candidate marker (Epi. & Lab.),"30115924, 37939186",,,Dd2,,
+Piperaquine,Pfcrt,T93S,1,,,,1,,1,"Validated marker (Epi., Lab. & Clin.)","31345709, 31345710, 31657776, 39661643",,,"Dd2, FCB",,
+Piperaquine,Pfcrt,I218F,1,,,,1,,1,"Validated marker (Epi., Lab. & Clin.)","31345709, 31345710, 31657776, 39661643",,,Dd2 ,,
+Piperaquine,Pfcrt,G367C,,1,1,,,,,Potential marker (Lab.),"38912775, 38912775",,,Dd2 ,,
+Pyrimethamine,Pfdhfr ,C59R + S108N,,1,,,,,1,Candidate marker (Epi. & Lab.),"2183221, 14982779, 19587242, 39414909, 40247054",,,,NRNI,-
+Pyrimethamine,Pfdhfr ,C59R + S108N + I164L,,1,,,,,,Potential marker (Lab.),"2183221, 19587242, 35500892",,,,NRNL,-
+Pyrimethamine,Pfdhfr ,N51I + S108N,1,1,1,,,,1,Candidate marker (Epi. & Lab.),"2183221, 2183222, 2904149, 3057499, 8577727, 9076734, 10950805, 14982779, 15326348, 19587242, 33267841, 39414909, 40247054",,,,ICNI,-
+Pyrimethamine,Pfdhfr ,N51I + C59R + S108N,,1,1,,,,1,Candidate marker (Epi. & Lab.),"2183221, 2183222, 9076734, 12805261, 14982779, 16023986, 19587242, 20602754, 24533303, 26203988, 28114990, 28415996, 33267841, 35500892, 39414909, 40247054",,,,IRNI,-
+Pyrimethamine,Pfdhfr ,N51I + C59R + S108N + I164L,,1,,,,,,Potential marker (Lab.),"2183222, 19587242, 28415996, 35500892",,,,IRNL,-
+Pyrimethamine,Pfdhfr ,S108N,1,1,1,,,,1,Candidate marker (Epi. & Lab.),"2183222, 2904149, 3057499, 8577727, 9076734, 10950805, 14982779, 15326348, 40247054",,,,NCNI,-
+Pyrimethamine,Pfgch1,Amplification,1,,,,,,1,Candidate marker (Epi. & Lab.),"23347134, 27899115",,,,-,-
+Pyrimethamine,Pfdhfr ,I164L,,,1,,,,,Potential marker (Lab.),"2904149, 3057499, 8577727, 10950805, 15326348, 21951962",,,,NCSL,-
+Pyrimethamine,Pfdhfr ,N51I,1,,1,,,,,Potential marker (Lab.),"2904149, 8577727, 15326348",,,,ICSI,-
+Pyrimethamine,Pfdhfr ,C59R,1,,1,,,,,Potential marker (Lab.),"2904149, 8577727, 15326348",,,,NRSI,-
+Quinine,Pfmdr1,S1034C + N1042D + D1246Y,1,1,,,,,,Potential marker (Lab.),10706290,,,,,
+Quinine,Pfmdr1,Amplification,,1,,,,,,Potential marker (Lab.),"12878499, 16845638, 19879850, 21777558, 23939897, 24423390, 30269689",,,,,
+Quinine,Pfcrt ,Q352K/R,,1,,,,,,Potential marker (Lab.),"17163969, 22869567",,,,,
+Sulfadoxine,Pfdhps,S436A + A437G + K540E + A613T, ,1, , , , , ,Potential marker (Lab.),22909027,,,,-,IAGEAT
+Sulfadoxine,Pfdhps,S436A + A437G + K540E,,1,,,,,,Potential marker (Lab.),"22909027, 35500892",,,,-,IAGEAA
+Sulfadoxine,Pfdhps,S436F + A613S , ,1, , , , , ,Potential marker (Lab.),7925353,,,,-,IFAKAS
+Sulfadoxine,Pfdhps,S436F + A437G + A613S,,,1,,,,,Potential marker (Lab.),9076734,,,,-,IFGKAS
+Sulfadoxine,Pfdhps,A437G,1,1,,,,,,Potential marker (Lab.),"9076734, 9661026, 9669998, 10471565, 11491006, 12427462, 16871319, 17206274, 17956498, 19055622, 26080363, 27821281, 33267841, 39496624",,,,-,ISGKAA
+Sulfadoxine,Pfdhps,S436F + A437G + A613S ,1,1,1, ,, , ,Potential marker (Lab.),"9076734, 9669998, 12427462",,,,-,IFGKAS
+Sulfadoxine,Pfdhps,A437G + A581G,1,,1,,,,,Potential marker (Lab.),"9076734, 9669998, 35500892",,,,-,ISGKGA
+Sulfadoxine,Pfdhps,A437G + K540E,,,,,,,1,Potential marker (Epi.),"9593041, 9669998, 10497991, 11784419, 11807721, 12427462, 15117308, 15642957, 16023986, 33267841, 35500892",,,,-,ISGEAA
+Sulfadoxine,Pfdhps,S436A + A437G,1,1, , ,,,,Potential marker (Lab.),"9669998, 12427462, 35346205, 39414909",,,,-,IAGKAA
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,N51I + C59R + S108N & A437G + K540E,,1*,1*,,1,,1,"Validated marker (Epi., Lab. & Clin.)","11807721, 15642957, 16267768, 21148518, 23198734, 25583123, 30053021, 32431521, 32698764, 33092587, 36121226, 36916920, 37348801, 37783456, 39488015",,,,IRNI,ISGEAA
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,C59R + S108N & S436A,,1*,,,,,1,Candidate marker (Epi. & Lab.),12805261,,,,NRNI,IAAKAA
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,C59R + S108N & A437G,,1*,,,,,1,Candidate marker (Epi. & Lab.),"12805261, 20399698",,,,NRNI,ISGKAA
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,N51I + C59R + S108N & S436A + A437G,,1*,1*,,1,,1,"Validated marker (Epi., Lab. & Clin.)","12805261, 26203988, 30053021, 30914041, 36121226, 36916920",,,,IRNI,IAGKAA
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,N51I + C59R + S108N &  A437G,,1*,1*,,1,,1,"Validated marker (Epi., Lab. & Clin.)","12805261, 30053021, 30914041, 32431521, 32653033, 36916920",,,,IRNI,ISGKAA
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,C59R + S108N & K540E,,1*,,,1,,1,"Validated marker (Epi., Lab. & Clin.)",15374529,,,,NRNI,ISAEAA
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,N51I + C59R + S108N & A437G + A581G + 613T,,1*,1*,,,,1,Candidate marker (Epi. & Lab.),"22909027, 33976269, 36583107",,,,IRNI,ISGKGT
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,N51I + C59R + S108N & A437G + K540E + A581G,,1*,1*,,,,1,Candidate marker (Epi. & Lab.),"24028889, 32653033, 37783456",,,,IRNI,ISGEGA
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,N51I + S108N & A437G + K540E,,1*,,,1,,1,"Validated marker (Epi., Lab. & Clin.)","25583123, 27209063",,,,ICNI,ISGEAA
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,N51I+C59R+S108N & S436A + A437G + K540E,,1*,1*,,,,1,Candidate marker (Epi. & Lab.),"26542942, 36328000, 36525403",,,,IRNI,IAGEAA
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,N51I + C59R + S108N & A437G + K540E + A581G + S436A,,1*,1*,,,,1,Candidate marker (Epi. & Lab.),30053021,,,,IRNI,IAGEGA
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,N51I + C59R + S108N & I431V + S436A + A437G + A581G + A613S,,1*,1*,,,,1,Candidate marker (Epi. & Lab.),32653033,,,,IRNI,VAGKGS
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,N51I + C59R + S108N & S436A + A437G + A581G,,1*,1*,,,,1,Candidate marker (Epi. & Lab.),"32653033, 32805431",,,,IRNI,IAGKGA
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,N51I + C59R + S108N & S436A  + A437G + A581G + A613S,,1*,1*,,,,1,Candidate marker (Epi. & Lab.),"32653033, 33238987, 36038059",,,,IRNI,IAGKGS
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,N51I + C59R + S108N & S436A + A437G + A613S,,1*,1*,,,,1,Candidate marker (Epi. & Lab.),32805431,,,,IRNI,IAGKAS
+Sulfadoxine-Pyrimethamine,Pfdhfr & Pfdhps,N51I + C59R + S108N &  A437G + A581G,,1*,1*,,,,1,Candidate marker (Epi. & Lab.),"32805431, 39496624",,,,IRNI,ISGKGA
